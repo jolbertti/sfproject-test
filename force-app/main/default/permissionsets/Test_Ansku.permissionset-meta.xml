@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Test Ansku</label>
+    <description>Test permission set. Created from Jira ticket JPT-112. Ceili/Anastasia22092026</description>
+    <hasActivationRequired>false</hasActivationRequired>
+</PermissionSet>
